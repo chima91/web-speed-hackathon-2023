@@ -26,9 +26,6 @@ dependencies:
   '@types/koa-session':
     specifier: 5.10.6
     version: 5.10.6
-  '@types/lodash-es':
-    specifier: 4.17.12
-    version: 4.17.12
   bcrypt:
     specifier: 5.1.0
     version: 5.1.0
@@ -77,9 +74,6 @@ dependencies:
   koa-static:
     specifier: 5.0.0
     version: 5.0.0
-  lodash-es:
-    specifier: 4.17.21
-    version: 4.17.21
   modern-css-reset:
     specifier: 1.4.0
     version: 1.4.0
@@ -160,9 +154,6 @@ devDependencies:
   '@types/koa-static':
     specifier: 4.0.2
     version: 4.0.2
-  '@types/lodash':
-    specifier: 4.14.191
-    version: 4.14.191
   '@types/node':
     specifier: 18.11.15
     version: 18.11.15
@@ -1717,15 +1708,6 @@ packages:
       '@types/keygrip': 1.0.2
       '@types/koa-compose': 3.2.5
       '@types/node': 18.11.15
-
-  /@types/lodash-es@4.17.12:
-    resolution: {integrity: sha512-0NgftHUcV4v34VhXm8QBSftKVXtbkBG3ViCjs6+eJ5a6y6Mi/jiFGPc1sC7QK+9BFhWrURE3EOggmWaSxL9OzQ==}
-    dependencies:
-      '@types/lodash': 4.14.191
-    dev: false
-
-  /@types/lodash@4.14.191:
-    resolution: {integrity: sha512-BdZ5BCCvho3EIXw6wUCXHe7rS53AIDPLE+JzwgT+OsJk53oBfbSmZZ7CX4VaRoN78N+TJpFi9QPlfIVNmJYWxQ==}
 
   /@types/long@4.0.2:
     resolution: {integrity: sha512-MqTGEo5bj5t157U6fA/BiDynNkn0YknVdh48CMPkTSpFTVmvao5UQmm7uEF6xBEo7qIMAlY/JSleYaE6VOdpaA==}
